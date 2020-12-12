@@ -1,6 +1,7 @@
 /**
- * @Name:Frosted Glass 
- * @author Gibbu#1211 (Edited by 🎄Ale✘🎄#7801)
+ * @name Frosted Glass
+ * @author Gibbu#1211
+ * @Edited By 🎄Ale✘🎄#7801 (Discord)
  * @version 2.0.0
  * @description Display your picture of choice with adjustable blur and brightness. Dark theme is required
  * @invite ZHthyCw
@@ -25,39 +26,47 @@
   --background-image-size: cover;
   --background-image-position: center center;
   --popout-modal-image: var(--background-image);
-  --popout-modal-blur: 3px;
+  --popout-modal-blur: 0px;
   --popout-modal-size: cover;
   --popout-modal-position: center center;
-  --home-button-image: url('https://cdn.discordapp.com/attachments/786393438487969793/786393484851412992/f72ef4b8090700c4fe4d43249bef6b6d.png');
+  --home-button-image: url('https://gibbu.github.io/BetterDiscord-Themes/FrostedGlass/assets/discord.svg');
   --home-button-size: cover;
   --home-button-position: center center;
-  --serverlist-brightness: 0.8;
-  --left-brightness: 0.8;
-  --middle-brightness: 0.6;
-  --right-brightness: 0.02;
-  --popout-modal-brightness: 0.76;
+  --serverlist-brightness: 0.58;
+  --left-brightness: 0.58;
+  --middle-brightness: 0.58;
+  --right-brightness: 0.28;
+  --popout-modal-brightness: 0.68;
   --gradient-primary: 103,58,183;
   --gradient-secondary: 63,81,181;
   --scrollbar-colour: rgba(255,255,255,0.05);
   --link-colour: #00b0f4;
   --gradient-direction: 320deg;
   --tint-colour: 156,39,176;
-  --tint-brightness: 0.08;
-  --font: 'Permanent Marker';
+  --tint-brightness: 0.1;
+  --font: 'Permanent Marker
+      ';
   --window-padding: undefinedpx;
-  --window-roundness: 1px;
+  --window-roundness: undefinedpx;
   --show-gift-gif-buttons: block;
   --update-notice-1: none;
-  --server-icon-size: 35px;
-  --server-icon-spacing: 7px;
+  --server-icon-size: 50px;
+  --server-icon-spacing: 8px;
   --server-container-padding: 10px;
   --rs-small-spacing: 0px;
-  --rs-large-spacing: 5px;
-  --rs-width: 2.5px;
+  --rs-large-spacing: 0px;
+  --rs-width: 3px;
   --rs-avatar-shape: 50%;
   --rs-online-color: #43b581;
   --rs-idle-color: #faa61a;
   --rs-dnd-color: #f04747;
   --rs-offline-color: #636b75;
   --rs-streaming-color: #643da7;
-  --rs-invisible-color: #747f8d}
+  --rs-invisible-color: #747f8d;}
+
+.container-UC8Ug1 {background-color:#1f2020}
+#app-mount .footer-2gL1pp {
+    background: #1f2020;
+    box-shadow: none;}
+colorHeaderPrimary-26Jzh- {
+    color: #a8a8ac;}
