@@ -29,13 +29,14 @@
   --popout-modal-blur: 0px;
   --popout-modal-size: cover;
   --popout-modal-position: center center;
-  --home-button-image: url('https://gibbu.github.io/BetterDiscord-Themes/FrostedGlass/assets/discord.svg');
+  --home-button-image: url('https://cdn.discordapp.com/attachments/786393438487969793/787140526499430400/91ce69b6c7c6ab40b1d35808979394a5.jpg');
+  --home-button-zoom:150px;
   --home-button-size: cover;
   --home-button-position: center center;
   --serverlist-brightness: 0.58;
   --left-brightness: 0.58;
   --middle-brightness: 0.58;
-  --right-brightness: 0.28;
+  --right-brightness: 0;
   --popout-modal-brightness: 0.68;
   --gradient-primary: 103,58,183;
   --gradient-secondary: 63,81,181;
